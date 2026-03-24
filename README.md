@@ -49,7 +49,7 @@ pip install pandas openpyxl playwright
 
 # Instale os binários do navegador
 playwright install chromium
-
+```
 ## 🚀 Como Usar
 1. **Prepare a Planilha:** Edite o arquivo em `data/clientes.xlsx` seguindo rigorosamente as colunas: **Nome**, **WhatsApp**, **Texto** e **Vendedora**.
 2. **Primeiro Acesso**: No primeiro uso de cada vendedora, o sistema abrirá o navegador visivelmente para que o QR Code seja escaneado.
