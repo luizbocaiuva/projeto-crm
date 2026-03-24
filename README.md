@@ -57,7 +57,7 @@ playwright install chromium
 4. **Execução do Script**:
 ```bash
 python app.py
-
+```
 
 ⚠️ **Aviso: Use o código com cuidado e respeite os limites de envio para evitar banimentos.**
 
@@ -66,4 +66,4 @@ python app.py
 - **Persistência de Dados**: Integração com banco de dados SQLite para controle de histórico de envios e evitar duplicidade.
 - **Interface Web**: Criação de uma interface simples em Streamlit para que o usuário final carregue planilhas sem interagir com o código.
 
-** Desenvolvido por [Luiz Bocaiuva] **
+**Desenvolvido por Luiz Bocaiuva**
